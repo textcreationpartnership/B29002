@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Roberts's case against Mellish, upon dismission of his appeal, without entring upon the merits of the cause, to be humbly presented to the Lords in Parliament.</title>
+            <author>Roberts, fl. 1683.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29002</idno><idno type="EEBO-CITATION">99887476</idno>
+  <idno type="VID">190435</idno>
+  <idno type="EEBO-PROQUEST">2240890991</idno>
+  
+            <idno type="STC">Wing R1621B</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7[7]</idno>
+            <idno type="STC">ESTC R227705</idno>
+            <idno type="PROQUEST">ocm99887476</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887476e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190435)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Roberts's case against Mellish, upon dismission of his appeal, without entring upon the merits of the cause, to be humbly presented to the Lords in Parliament.</title>
+                  <author>Roberts, fl. 1683.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Imperfect: print faded.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mellish, fl. 1683 --  Early works to 1800.</term>
+               <term type="personal_name">Roberts, fl. 1683 --  Early works to 1800.</term>
+               <term type="topical_term">Debtor and creditor --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190435:1"/>
+            <head>Roberts's <hi>CASE</hi> against <hi>Mellish,</hi> upon dismission of his Appeal, without entring upon the Merits of the Cause, To be Humbly Presented to the Lords in Parliament.</head>
+            <p>IT being Decreed that <hi>Roger Williams,</hi> deceas'd, should pay one <hi>Mellish</hi> 282 <hi>l.</hi> 14 <hi>s.</hi> 5 <hi>d.</hi> and 149 <hi>l.</hi> Costs of Suit; whereas instead thereof, <hi>Mellish</hi> ought to have been Decreed to pay <hi>Williams,</hi> 481 <hi>l.</hi> Upon Hearing of <hi>Ro<g ref="char:EOLhyphen"/>berts</hi>'s Appeal from that Decree, <hi>Mellish</hi>'s Counsel alledg'd the Decree Appeal'd from, was a Decree by Consent, and Consented to by Mr. <hi>Williams,</hi> Brother and Council for the said <hi>Roger Williams:</hi> whereupon the Appeal was dis<g ref="char:EOLhyphen"/>missed without Hearing the Merits of the Cause. Afterwards, finding that <hi>Mellish</hi> by his Answer to the Appeal, had not insisted upon any such Consent. <hi>Roberts</hi>'s Counsel thought it not practicable, to admit any thing at the Hearing of an Ap<g ref="char:EOLhyphen"/>peal, in Barr to the Appeal that was not insisted on by the pleading Precedent to the Hearing, and therefore <hi>inter alia, Roberts</hi> prayed a Re-hearing upon the single point of Consent, or not Consent, which was ordered accordingly; yet notwithstand<g ref="char:EOLhyphen"/>ing what was then offer'd by <hi>Williams</hi>'s Counsel, the Petition for the Re-hearing was dismiss'd, without entring into the merits of the Cause; and <hi>Roberts</hi> ordered to pay <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Cost, which he hath since paid. Since which Rehearing, the proceedings upon and <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>r the Decree, have been found, which is hop'd may make it evident there <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no Consent to the Decree but an offer to Perform long after the Decree was <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, to prevent going to Gaol, which Proceedings are as followeth;</p>
+            <p>On the 17th of <hi>January,</hi> 1681, the Decree Appeal'd from was pronounc'd, at which time, and before the Hearing, the Court was made acquainted, that Sir <hi>Robert Sawyer,</hi> then Att<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rney-General, and the said <hi>Roger Williams</hi>'s Principal Council was ab<g ref="char:EOLhyphen"/>sent; and therefore it was prayed, that the Cause might be put off but for one day, which was denied.</p>
+            <p>In few days after, a Petition Signed by Council, for a Re-hearing, was presented to the Lord Chancellor, but Rejected, as by Affidavit soon after Fil'd in <hi>Chancery,</hi> ap<g ref="char:EOLhyphen"/>pears.</p>
+            <p>Afterwards, the 282 <hi>l.</hi> 14 <hi>s.</hi> 5 <hi>d.</hi> Decreed, was demanded of <hi>Roger Williams,</hi> and he refused to pay it, and therefore was taken upon an Attachment, and after that he had appear'd upon the Attachment, it was referr'd to a Master in <hi>Chancery</hi> to exa<g ref="char:EOLhyphen"/>mine, if the said <hi>Roger Williams</hi> were in Contempt; and on the 13th of <hi>July</hi> 1682, the Master reported him in Contempt.</p>
+            <p>After which, <hi>Williams</hi> took exceptions to that Report of the Contempt, for that amongst other irregularities, there were not 15 Days between the Teste and Re<g ref="char:EOLhyphen"/>turn of the Attachment upon which <hi>Williams</hi> was taken; which Exceptions came to Hearing the 17th of <hi>October</hi> 1682. Yet the Court Over-rul'd the Exceptions, so that according to the course of the <hi>Chancery,</hi> the next Remove for <hi>Williams</hi> was to Goale, or Comply with the Court: Whereupon <hi>Williams</hi>'s Council pray'd some time for payment of the Money Decreed, and offer'd to pay it within a Month af<g ref="char:EOLhyphen"/>ter the Costs should be Tax'd. And on the same day, a Cause upon a Bill of the said <hi>Roger Williams</hi> against <hi>Mellish,</hi> praying a new Trial in a Cause wherein <hi>Mellish,</hi> ob<g ref="char:EOLhyphen"/>tain'd Judgment against <hi>Williams</hi> for 230 <hi>l.</hi> upon a Verdict against all the Evidence in the Cause, came to be heard: and the Court being of Opinion it could grant no new Trial, dismiss'd the Bill, and <hi>Mellish</hi>'s Council pressing for Costs, upon that dismission, and urging, by way of aggravation, that <hi>Williams</hi> had stood in Con<g ref="char:EOLhyphen"/>tempt to the Decree: The Court Declared, That in regard the said <hi>Williams</hi>'s Connsel had offerd to pay the Money decreed, as aforesaid, he should pay no Costs upon the Dismission, if the Money were paid according to the offer; and the Money was paid within a short time after the time it was promis'd to be paid, and Leave given that day it was paid, to bring in a Bill of Review; So that the said <hi>R<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ger Wil<g ref="char:EOLhyphen"/>liams</hi> was brought under a necessity of going to Geol, or complying with the Court, before the offer of paying the Money Decreed, was made:</p>
+            <p>
+               <hi>Ʋpon all which, the said</hi> Roberts <hi>Humbly prays your Lordships f<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Consideration, whether such an Offer at such a time, ought to be a Barr to an Appeal.</hi>
+            </p>
+            <pb facs="tcp:190435:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
